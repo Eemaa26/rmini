@@ -5,7 +5,8 @@ Title: A minimal R package as an example of writing R packages
 Author: Yihui Xie
 Maintainer: Yihui Xie <xie@yihui.name>
 Depends:
-    R (>= 3.1.0)
+    R (>= 3.1.0),
+    dplyr
 Imports:
     tools
 Suggests:

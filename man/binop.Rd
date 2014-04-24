@@ -1,8 +1,8 @@
-\name{rock_fun}
-\alias{rock_fun}
+\name{binop}
+\alias{binop}
 \title{Scrolling letters}
 \usage{
-rock_fun(n = 20)
+binop()
 }
 \arguments{
   \item{n}{length of letters}

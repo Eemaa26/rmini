@@ -13,3 +13,4 @@ A few numbers from \code{rnorm()}.
 data(hiNorm)
 str(hiNorm)
 }
+

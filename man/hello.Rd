@@ -11,7 +11,7 @@ hello(x)
 \method{hello}{character}(x)
 }
 \arguments{
-\item{x}{an arbitrary R object}
+  \item{x}{an arbitrary R object}
 }
 \value{
 The class of \code{x} is printed as a side-effect.
@@ -21,6 +21,7 @@ Say hello on difference classes.
 }
 \examples{
 hello(1)
-hello("a")
-hello(structure(1, class = "world"))
+hello('a')
+hello(structure(1, class = 'world'))
 }
+

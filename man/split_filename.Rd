@@ -5,9 +5,9 @@
 split_filename(x, ...)
 }
 \arguments{
-\item{x}{explanation of \code{x}}
+  \item{x}{explanation of \code{x}}
 
-\item{...}{explanation of \code{...}}
+  \item{...}{explanation of \code{...}}
 }
 \value{
 The value returned by this function.
@@ -16,12 +16,13 @@ The value returned by this function.
 This is a brief description.
 }
 \details{
-Anything else after the description goes to the Details section.
+Anything else after the description goes to the Details
+section.
 
 You can write several paragraphs.
 }
 \examples{
-split_filename("foo.bar")
+split_filename('foo.bar')
 }
 \author{
 Who are you?
@@ -30,5 +31,7 @@ Who are you?
 \url{https://github.com/yihui/rmini}
 }
 \seealso{
-\code{\link[tools]{file_ext}}, \code{\link[tools]{file_path_sans_ext}}
+\code{\link[tools]{file_ext}},
+\code{\link[tools]{file_path_sans_ext}}
 }
+
