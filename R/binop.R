@@ -4,7 +4,7 @@
 #' @param n length of letters
 #' @return The last vector of letters.
 #' @export
-#' @importFrom dplyr group_by summarise %.%
+#' @importFrom dplyr group_by summarise %.% tbl_df
 #' @examples library(rmini); rock_fun(); rock_fun(50)
 #' # you can call unexported functions with ::: but it is not recommended
 #' # because package authors may not want you to go into their backyards
